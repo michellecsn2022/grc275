@@ -1,0 +1,79 @@
+/*My Custom CSS*/
+
+body {
+    background-color: white;
+    padding-top: 0px
+}
+
+
+h1 {
+    font-family: 'Unica One', cursive;
+    font-size: 48px;
+}
+
+
+h2 {
+    font-family: 'Fjalla One', sans-serif; 
+    font-size: 20px;
+    color: #ED1890;
+    text-align: center;
+}
+
+p {
+    font-family: 'Josefin Slab', serif;
+}
+
+.p-f {
+    font-family: 'Josefin Slab', serif;
+    color: #222157;
+    text-align: left;
+}
+
+
+.h-f {
+    font-family: 'Fjalla One', sans-serif; 
+    font-size: 20px;
+    color: #ED1890;
+    text-align: left;
+}
+
+
+.row {
+    padding: 5px;
+    height: 25px;
+    width: 100%;
+    
+}
+
+.p-2 {
+    width: 800px;
+}
+
+
+.p-3 {
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+
+
+hr { 
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 3px;
+  border-width: 0;
+  color: #222157;
+  background-color: #222157;
+} 
+
+
+.graysection {
+    background-color: #DDDDDD;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
